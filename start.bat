@@ -1,0 +1,1 @@
+pyinstaller --noconsole --add-data="C:\Users\cyagen_xiaoxu\pycharmProjects\make_video;." -p "C:\Users\cyagen_xiaoxu\python_virtualenv\video;" "C:\Users\cyagen_xiaoxu\pycharmProjects\make_video\main.py" -d all -F -n alexxu --clean
